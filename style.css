@@ -180,7 +180,17 @@ body{
 }
 
 
+@media (max-width:375px){
+    .box{
+        width: 95%;
+    }
 
+
+    .box form .inputBox{
+        width: 95%;
+    }
+
+}
 
 
 
